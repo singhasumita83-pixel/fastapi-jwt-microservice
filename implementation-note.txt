@@ -1,0 +1,3 @@
+Implementation Note
+
+I developed a FastAPI-based REST API microservice with JWT authentication. The project includes user registration and login, bcrypt password hashing, JWT Bearer token authorization, Pydantic request validation, SQLite database persistence, and secure CRUD operations for user-owned items. Interactive Swagger/OpenAPI documentation is available at /docs, and a Postman collection is included for API testing.
